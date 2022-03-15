@@ -174,8 +174,8 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("joshua-reddekopp-SyYmXSDnJ54-unsplash.jpg") no-repeat center;
-    /* opacity: 0.9; */
+    background: url("annie-spratt-zh7GEuORbUw-unsplash.jpg") no-repeat center;
+    /* opacity: 0.8; */
     background-color: black;
     height: 100vh;
     color: #fff;
